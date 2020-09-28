@@ -3,3 +3,4 @@ Menurut kelompok kami, untuk logo dari sebuah aplikasi biasanya diikuti motto at
 ![Logo](https://user-images.githubusercontent.com/56811810/94443815-cf237e80-01cf-11eb-8d42-da3b373e914f.jpeg)
 Untuk tampilan "home", "overall" terlihat professional dan "pleases the eye". Pemilihan warna yang monokrom dan simpel juga menunjukkan elegan dan terkesan tidak ramai namun tetap menarik untuk dilihat.
 ![Book Scooter 2](https://user-images.githubusercontent.com/56811810/94444465-8cae7180-01d0-11eb-86a1-c81b852afd31.jpeg)
+![Book Scooter](https://user-images.githubusercontent.com/56811810/94444414-80c2af80-01d0-11eb-9213-c9934db3403c.jpeg)
