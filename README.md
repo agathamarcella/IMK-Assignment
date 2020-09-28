@@ -5,7 +5,7 @@
 3. Rifaat Imappaganti 1313619019
 4. Nanda Afif         1313619039
 # Task 1 Report
-
+https://github.com/avocado23/IMK-Assignment-1/tree/master/Task%201%20Report
 # Task 2 Report
 
 # Interview Report
