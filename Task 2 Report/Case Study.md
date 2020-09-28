@@ -27,14 +27,18 @@ Sumber dana kami dari teman-teman Freelancer and Internet Marketeer. Jadi disini
 
 Yuk Install, dan isi saldo paypal di Payo.
 ![2](https://user-images.githubusercontent.com/56811810/94459208-3b5aae00-01e1-11eb-992a-4c2daac9cdf2.png)
+
 Banner untuk Payo dengan slogan "Beli Saldo Paypal Aman, Cepat dan Murah" dengan kelebihan rate yang tergolong rendah. Minimum transaksinya $5 atau IDR74.750.
 ![1](https://user-images.githubusercontent.com/56811810/94459357-6cd37980-01e1-11eb-9a31-7f717f322ecb.png)
+
 Secara  garis besar design homepage sangat simpel dengan Contact Person yang tersedia dengan logo dilanjut dengan pengisian saldo USD Dollar (USD$) minimum $25. Rate per hari ditunjukkan sesuai dengan rate dari Payo. Nilai yang harus ditransfer akan muncul. Catatan untuk akun baru agar diverifikasi terlebih dahulu dengan Credit Card (CC)/Jenius (Bank BTPN). Proses pembelian dapat dilanjutkan.
 ![3](https://user-images.githubusercontent.com/56811810/94459396-7c52c280-01e1-11eb-8cbb-e0030974ec43.png)
+
 Selain pencairan Paypal ke IDR dan pengisian saldo ke Paypal, Payo juga menawarkan jasa lainnya yaitu pembayaran ke supplier pada website Alibaba, sebuah marketplace yang bergerak di bidang E-Commerce. Jasa pembelian buku melalui Book Depository dan Amazon, worldwide marketplace yang terpercaya. Selain itu juga dapat membeli barang di E-bay dan Alibaba Express yang dimana untuk penduduk  Indonesia tergolong sulit dikarenakan belum terjangkau oleh pasaran Indonesia.
 ![4](https://user-images.githubusercontent.com/56811810/94459433-8a084800-01e1-11eb-88fb-a9d668f236d2.png)
 ![5](https://user-images.githubusercontent.com/56811810/94459466-92608300-01e1-11eb-9274-08b4c8d05349.png)
 ![6](https://user-images.githubusercontent.com/56811810/94459484-9a202780-01e1-11eb-8b56-7ed632fda6e7.png)
+
 Pembayaran transaksi yang ditawarkan oleh Payo efisien dan cepat melalui dompet elektronik seperti OVO, Online dan M-Banking serta Dana. Di era yang serba teknologi ini sangat bergantung pada kepraktisan sebuah transaksi.
 
 Dengan pembelajaran dari aplikasi Payo dapat kami simpulkan bahwa mobile app ini memiliki potensi karena kelangsungannya yang serba praktis namun akan lebih menjual dan diminati masyarakat apabila ditambah fitur yang menarik seperti Promo, Event dan News.
