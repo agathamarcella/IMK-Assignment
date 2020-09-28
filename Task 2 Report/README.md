@@ -1,4 +1,4 @@
-# Teks Wawancara
+# Interview Text
 Narasumber kami adalah
 Interview ini kami lakukan melalui chat Whatsapp pada hari Kamis, 24 September 2020 jam 15.24 WIB dikarenakan narasumber sibuk dan tidak dapat bertemu atau video/audio call.
 
