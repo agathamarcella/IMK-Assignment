@@ -26,8 +26,7 @@ Insyaallah, kita akan jujur menjalankan layanan ini. Jadi jangan khawatir Paypal
 Sumber dana kami dari teman-teman Freelancer and Internet Marketeer. Jadi disini kita akan saling merasakan manfaat.
 
 Yuk Install, dan isi saldo paypal di Payo.
-
-----FOTO 2-----
+![2](https://user-images.githubusercontent.com/56811810/94459208-3b5aae00-01e1-11eb-992a-4c2daac9cdf2.png)
 Banner untuk Payo dengan slogan "Beli Saldo Paypal Aman, Cepat dan Murah" dengan kelebihan rate yang tergolong rendah. Minimum transaksinya $5 atau IDR74.750.
 
 ----FOTO 1------
