@@ -1,5 +1,5 @@
 ### About SPEC and Gemar
-SPEC (Special Education Creatives) merupakan Perusahaan yang bergerak pada bidang kreatif untuk Pendidikan Khusus dengan produk utamanya GEMAR untuk membantu pendidikan anak-anak tuna rungu.
+SPEC (Special Education Creatives) merupakan Perusahaan yang bergerak pada bidang kreatif untuk Pendidikan Khusus dengan produk utamanya GEMAR untuk membantu pendidikan anak-anak tuna rungu. Gemar adalah aplikasi
 ### Profile Developer
 **Linkedin : https://www.linkedin.com/in/febrianafatah/**
 
