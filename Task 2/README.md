@@ -12,7 +12,7 @@ Design Mockup by Fathimah Az Zahra
 Voting Design
 
 Record Date : Monday, 12 October 2020 Via Zoom Meeting
->
+> https://youtu.be/-pFyCZ4iJZE
 
 Voters :
 - Andri Rahmanto, State University of Jakarta, Computer Science'18
