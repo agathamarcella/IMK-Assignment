@@ -16,7 +16,7 @@ Developer Opinion
 ### Day 4
 Voting Design
 
-Time : Tuesday, 13 October 2020 Via Zoom Meeting
+Record Date : Tuesday, 13 October 2020 Via Zoom Meeting
 >
 
 Voters :
