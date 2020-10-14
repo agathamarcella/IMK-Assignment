@@ -11,6 +11,9 @@ Design Mockup by Agatha Marcella
 
 Design Mockup by Fathimah Az Zahra
 > https://github.com/avocado23/IMK-Assignment/tree/hw2/Task%202/Zahra's%20Mockup
+
+Developer Opinion
+> https://youtu.be/U8cmAze4VOA
 ### Day 3 Report
 Voting Design
 
