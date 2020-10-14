@@ -9,7 +9,7 @@ Design Mockup by Agatha Marcella
 Design Mockup by Fathimah Az Zahra
 > https://github.com/avocado23/IMK-Assignment/tree/hw2/Task%202/Zahra's%20Mockup
 ### Day 3
-Record Date : Monday, 12 October 2020
+Record Date : Monday, 12 October 2020 Via Zoom Meeting
 
 Developer Opinion
 > https://youtu.be/U8cmAze4VOA
