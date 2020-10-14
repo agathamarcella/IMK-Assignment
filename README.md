@@ -1,12 +1,17 @@
-# Assignment 2 -Interaksi Manusia Komputer-
-# Group K
-1. Agatha Marcella    1313618006
-2. Fathimah Az Zahra  1313618012
-3. Rifaat Imappaganti 1313619019
-4. Nanda Afif         1313619039
-# Task 1 Report
+### About SPEC and Gemar
+SPEC (Special Education Creatives) merupakan Perusahaan yang bergerak pada bidang kreatif untuk Pendidikan Khusus dengan produk utamanya GEMAR untuk membantu pendidikan anak-anak tuna rungu.
+### Profile Developer
+**Linkedin : https://www.linkedin.com/in/febrianafatah/**
 
-# Task 2 Report
-**Day 1 report** https://youtu.be/m4Iv0tvNrIc
+**Nama** : Febrian Abdul Fatah
 
-**Day 2 report**
+**About** : Experienced Network Operations Center with a demonstrated history of working in the telecommunications industry. Skilled in Web Design, Management, Design Graphics, Documentation, Critical Thinking, and Fiber Optic Networks. Strong information technology professional with a Bachelor Degree of Computer Science focused in Computer Science from State University of Jakarta (Universitas Negeri Jakarta). 
+
+**Experience** : 
+- Network Operations Engineer at PT. Global Inti Corporatama Indonesia (May 2015-October 2020)
+- IT Support Specialis at Senam Tera Indonesia (August 2018-January 2020)
+- Field Engineer :: Trobleshoot Division at PT. Lumbung Riang Communication (May2014-May 2015)
+
+**Education** : 
+- Teknik Electronika Industri at SMKN 26 (STM Pembangunan Jakarta)
+- Bachelor Degree of Computer Science at State University of Jakarta
